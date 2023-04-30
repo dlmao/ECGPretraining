@@ -1,4 +1,4 @@
-# Requirements and Installation
+# Setup Environment
 
 * [PyTorch](https://pytorch.org) version >= 1.5.0
 * Python version >= 3.6

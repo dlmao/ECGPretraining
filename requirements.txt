@@ -1,0 +1,6 @@
+-f https://download.pytorch.org/whl/cu117
+torch>=1.5.0
+-f https://download.pytorch.org/whl/cu117
+torchvision
+-f https://download.pytorch.org/whl/cu117
+torchaudio
