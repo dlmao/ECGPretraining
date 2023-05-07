@@ -4,3 +4,6 @@ torch>=1.5.0
 torchvision
 -f https://download.pytorch.org/whl/cu117
 torchaudio
+numpy
+pandas
+scipy
